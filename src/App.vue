@@ -12,7 +12,10 @@
 </template>
 <script>
 export default {
-  inject: ['GStore'] // <----
+  inject: ['GStore'], // <----
+  created() {
+    document.title = 'Haolong Huai'
+  }
 }
 </script>
 <style>
