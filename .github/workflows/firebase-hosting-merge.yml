@@ -19,4 +19,4 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_TEST_331_LAB06_1EF93 }}'
           channelId: live
-          projectId: test-331-lab06-1EF93
+          projectId: test-331-lab06-1ef93
