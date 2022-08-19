@@ -14,7 +14,7 @@
 export default {
   inject: ['GStore'], // <----
   created() {
-    document.title = 'Haolong Huai'
+    document.title = 'Haitao Liu'
   }
 }
 </script>
