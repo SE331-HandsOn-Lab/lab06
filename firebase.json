@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist",
+    "public": "Luckfishsing/331lab06",
     "ignore": [
       "firebase.json",
       "**/.*",
